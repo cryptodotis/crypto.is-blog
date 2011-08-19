@@ -89,3 +89,24 @@ p {
 #header {
     padding: 20px 0;
 }
+
+#main_content {
+    min-height: 400px;
+}
+
+#footer {
+    border-top: 8px solid #ddd;
+    text-align: center;
+}
+
+#footer a {
+    font-size: 20px;
+    font-weight: 600;
+    color: #666;
+    text-decoration: none;
+}
+
+#footer div {
+    height: 50px;
+    padding: 20px 0;
+}
