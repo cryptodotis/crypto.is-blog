@@ -86,3 +86,6 @@ p {
 	border: 1px solid #555;
 }
 
+#header {
+    padding: 20px 0;
+}
