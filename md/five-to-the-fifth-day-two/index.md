@@ -8,11 +8,15 @@ The Crypto Project Convergence Notary will be put up for public use today, but p
 
 [The Crypto Project .notary File][2]
 
+If you have the [Convergence][1] plugin installed (which you can download [here][5]), you can simply click on the .notary link above to use our notary. Other notaries can be found over at the [Convergence Github Wiki][5].
+
 Once again, running the all of these servers/services is not free. Please donate at [our Donations page][3] and we will continue to expand our network and services. Thank you again for your time and attention as we work in this event and setup more services to help with security, privacy, and censorship circumvention!
 
    [1]: http://convergence.io
    [2]: http://crypto.is/static/files/cryptodotis.notary 
    [3]: https://crypto.is/interact/money/
+   [4]: https://github.com/moxie0/Convergence/wiki/Notary-list-:--share-and-find-notaries!
+   [5]: http://convergence.io/releases/firefox/convergence-current.application=x-xpinstall
 
 
 
