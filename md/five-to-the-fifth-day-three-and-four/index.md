@@ -1,6 +1,6 @@
 # Five to the Fifth: Day Three and Four Wrap Up
 
-It should probably be clear to everyone at this point that I am running a little "behind" on the schedule of the "Five to the Fifth" event.  Wrap up posts are a day or so late and it is Friday night and only 4 of the 5 services up.  Hopefully I will have the fifth service up tonight. To recap, the server setup on Monday was a Tor relay, but I also setup a mirror of the TorProject.org webiste.  On Tuesday, I setup a Convergence.io notary server.  Since then, I have setup an anonymous remailer and the start of our Tahoe-LAFS grid.
+It should probably be clear to everyone at this point that I am running a little "behind" on the schedule of the "Five to the Fifth" event.  Wrap up posts are a day or so late and it is Friday night and only 4 of the 5 services are up.  Hopefully I will have the fifth service up tonight. To recap, the server setup on Monday was a Tor relay, but I also setup a mirror of the TorProject.org website.  On Tuesday, I setup a Convergence.io notary server.  Since then, I have setup an anonymous remailer and the start of our Tahoe-LAFS grid.
 
 ## Anonymous remailer
 
