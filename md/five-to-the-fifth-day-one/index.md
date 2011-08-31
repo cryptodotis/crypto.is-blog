@@ -21,6 +21,6 @@ Sir Valiance
    [2]: https://torproject.org
    [3]: https://github.com/cryptodotis/tor-server-setup
    [4]: https://www.torproject.org/docs/running-a-mirror.html.en 
-   [5]: https://hetzner.de
+   [5]: https://www.hetzner.de
    [6]: https://crypto.is/interact/money/
    [7]: https://torproject.crypto.is
