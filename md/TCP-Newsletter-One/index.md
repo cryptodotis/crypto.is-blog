@@ -20,7 +20,7 @@ We currently have a [Guides Section](https://crypto.is/guides/) where 11 guides 
 
 ## Network
 
-As mentioned previously, we have our [Network Section](https://crypto.is/projects/network/) that lists all of services The Crypto Project runs as well as the services run by project members.  If you would like to run a services or have already set one up, please contact us and/or add it to the list.
+As mentioned previously, we have our [Network Section](https://crypto.is/projects/network/) that lists all of services The Crypto Project runs as well as the services run by project members.  If you would like to run a service or have already set one up, please contact us and/or add it to the list.
 
 ## Pychon Gate Implmentation
 
@@ -32,11 +32,11 @@ The Project could use lots of help, including more development and review, a tes
 The [Code Audit Feed](https://crypto.is/projects/audit/) has been under active development.  Currently the biggest contributions needed are the names of crypto, privacy, anonyminity and projects that can be [added to the database](https://github.com/cryptodotis/code-audit-feed/blob/master/setup.py#L96).  The project is nearing a public beta (along with a renaming - suggestions welcome), and could use web designers to start brainstroming a good web interface.
 
 ## Irssi-otr
-DrWhax has been working on the [irssi-otr](https://github.com/cryptodotis/irssi-otr) project. The name should actually be changed, since it's not only irssi-otr which suffers from bugs; pidgin-otr, weechat-otr and xchat-otr suffer from the same bugs like the much discussed "/me" bug.  This means that if you are having an OTR chatsession and you are doing a "/me loves OTR", this won't be encrypted and will be sent in the clear, thus leaking requests and exposing that you are having an OTR chatsession. There are many more bugs which are not listed yet on the github repository.  If you ever encounter a bug, please fill a bugreport! Later this week DrWhax hopes to publish a blog post about OTR and the implementations of it.
+DrWhax has been working on the [irssi-otr](https://github.com/cryptodotis/irssi-otr) project. The name should actually be changed, since it's not only irssi-otr which suffers from bugs; pidgin-otr, weechat-otr and xchat-otr suffer from the same bugs like the much discussed "/me" bug.  This means that if you are having an OTR chatsession and you are doing a "/me loves OTR", this won't be encrypted and will be sent in the clear, thus leaking requests and exposing that you are having an OTR chatsession. There are many more bugs which are not listed yet on the github repository.  If you ever encounter a bug, please fill a bug-report! Later this week DrWhax hopes to publish a blog post about OTR and the implementations of it.
 
 ## Recent Press and New Project Members
 
-Since we had a little press from [Threatpost](https://threatpost.com/en_us/blogs/behind-scenes-crypto-project-083011), [Slashdot](http://yro.slashdot.org/story/11/08/31/0424251/The-Crypto-Project-Revives-Cypherpunk-Ethic), and more, the number of contributors, individuals on IRC, and the mailing list has more than doubled.  With the new members, we hope to receive more development on projects, services and services setup, and the continued work on guides.  Glad to see all of the new handles!
+Since we had a little press from [Threatpost](https://threatpost.com/en_us/blogs/behind-scenes-crypto-project-083011), [Slashdot](http://yro.slashdot.org/story/11/08/31/0424251/The-Crypto-Project-Revives-Cypherpunk-Ethic), and more, the number of contributors, individuals on IRC, and the mailing list has exploded.  With the new members, we hope to receive more development on projects, services and servers setup, and the continued work on guides.  Glad to see all of the new handles!
 
 ## Establishing Roles
 
