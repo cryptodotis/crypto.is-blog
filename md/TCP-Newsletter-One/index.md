@@ -22,7 +22,7 @@ We currently have a [Guides Section](https://crypto.is/guides/) where 11 guides 
 
 As mentioned previously, we have our [Network Section](https://crypto.is/projects/network/) that lists all of services The Crypto Project runs as well as the services run by project members.  If you would like to run a service or have already set one up, please contact us and/or add it to the list.
 
-## Pychon Gate Implmentation
+## Pynchon Gate Implementation
 
 [Nick Mathewson](http://twitter.com/#!/nickm_tor) started working on a [Pynchon Gate (PDF)](http://www.cosic.esat.kuleuven.be/publications/article-620.pdf) implementation, which can be found on the [github repository](https://github.com/nmathewson/pynchon-gate).  It doesn't send or receive email yet, but it might turn into something useful.  Pynchon Gate is a pseudonymous email system designed by Len Sassaman and Bram Cohen.  
 
