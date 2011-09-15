@@ -15,7 +15,7 @@
         {% for page in pages_list %}
         <entry>
                 <title>{{ page['title'] }}</title>
-                <link rel="alternate" type="text/html" href="https://{{ request.host }}{{ page['handler'] }}"/>
+                <link rel="alternate" type="text/html" href="https://blog.crypto.is{{ page['handler'] }}"/>
                 <id>{{ page['handler'] }}</id>
                 <updated>{{ page['modified'] }}</updated>
                 <published>{{ page['created'] }}</published>
