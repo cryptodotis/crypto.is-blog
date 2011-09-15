@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+ 
+<feed xmlns="http://www.w3.org/2005/Atom">
+ 
+        <title>The Crypto Project Blog</title>
+        <subtitle>The Crypto Project Blog</subtitle>
+        <link href="https://blog.crypto.is/feed/" rel="self" />
+        <link href="https://blog.crypto.is/" />
+        <updated>{{ pages_list[-1]['created'] }}</updated>
+        <author>
+                <name>The Crypto Project</name>
+                <email>sir@sirvaliance.com</email>
+        </author>
+ 
+        {% for page in pages_list %}
+        <entry>
+                <title>{{ page['title'] }}</title>
+                <link rel="alternate" type="text/html" href="https://{{ request.host }}{{ page['handler'] }}"/>
+                <id>{{ page['handler'] }}</id>
+                <updated>{{ page['modified'] }}</updated>
+                <published>{{ page['created'] }}</published>
+        </entry>
+        {% end %}
+ 
+</feed>
+
