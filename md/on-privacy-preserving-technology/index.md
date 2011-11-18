@@ -1,0 +1,27 @@
+This post is about a couple interesting accounts of technology, sharing, and privacy from some unlikely sources.  People don't like labels, but from a practical standpoint it gets a bit tiresome to say "people concerned with and interested in privacy, anonymity, cryptography, and the like" so for short I'm just going to call us 'activists'.  Don't get hung up on that, please.  
+
+First off, if you've never heard of Progressive's [Snapshot Discount](http://www.progressive.com/auto/snapshot-how-it-works.aspx) Program - you're probably going to hate it.  It's a little doo-hicky you put in your car and monitors you.  They make all sorts of assurances and promises about how your rates won't go up, and they don't care about how fast you drive (hah!) - but the short of it, is it's a little monitoring device you put in your car - voluntarily.  Now obviously, there's a lot of criticism about this device from lots of spaces but here's one I bet you didn't expect to hear it from - a police officer.
+
+[Police-Led Intelligence](http://policeledintelligence.com/) is a "law enforcement intelligence and crime analysis blog" written by [two police officers](http://policeledintelligence.com/about/) and their recent post [Snapshot: Progressive and Privacy](http://policeledintelligence.com/2011/11/16/snapshot-progressive-and-privacy/) talks about the device.
+
+> For those in law enforcement reading this blog, it's no news that 30 days is enough time to observe multiple illegal activities. For anyone, it's obvious that 30 days is, in Dave's words, "Long enough to get the full picture of their routine activity."
+> 
+> Your car's computers know, for example, when you're weaving. So are you drunk? Or are you just texting? And is texting illegal in your state?
+> 
+> ...
+> 
+> Speaking of terms, I like the one about where they will release data to "comply with the law". Does this mean that I might subpoena Progressive to obtain information on one of its customers? Pa-POW! Now that's progressive. What a bounteous harvest might await.
+> 
+> ...
+> 
+> In my opinion, this may be one of those times when the cost may greatly exceed any discount you might get.
+
+Officer Selby makes an awful lot of the same points any of us would make.  Using my prior-defined word - something I hope we as activists are able to do in the years ahead is work *with* companies to produce privacy-preserving technologies that still further the state of the art and make lives easier.  No one is going to argue that electronic toll plazas make life easier for commuters - but they also pose a great privacy concern.  Organizations and Seminars like [PETS](http://petsymposium.org/) work to further that goal - look at some of the talks from their last conference: "Plug-in privacy for Smart Metering billing", "Targeted, Not Tracked: Client-side Solutions for Privacy-Friendly Behavioral Advertising", "Privacy-friendly Aggregation for the Smart-grid" - these aren't your usual security conference talks.  These are about *building* something - not breaking it.  I'm sure they're not perfect, but the point is, this research isn't particularly popular but it's **critical** if we want to live in a world where privacy is preserved.  Because technology is going to race ahead, and if we're not keeping up with it as it's developed - our concerns aren't going to be addressed.
+
+The second blog post is the other end of the spectrum, from Etsy's Engineering blog - [Engineering Social Commerce](http://codeascraft.etsy.com/2011/11/09/engineering-social-commerce/) where they talk about the technical challenges of grabbing all a facebook user's friends information and finding the best product match for them.  
+
+> The product works by connecting with your Facebook account, analyzing thousands or more of your friends' likes and interests, and then making recommendations across millions of items in Etsy's marketplace. Social commerce has been somewhat of a hot topic lately, and the gift recommender is a social commerce feature in that it provides a new and unique shopping experience to buy gifts for your friends and family.
+
+Now, I actually have a lot of friends that work at Etsy, and some of them probably helped build this - they're not bad people.  But it's awfully creepy to know that if you're on facebook - and one of your friends can use Etsy's app - all of your likes and interests have passed through Etsy's servers.  (Possibly being stored, possibly not - but they could have been.)  Could this be done in a way that wouldn't make me feel creeped out by Etsy?  Absolutely.  Did they build it that way?  I'll never know.  Nor will I know if they change it.  Or if they get a National Security Letter.  (Obviously I'm not actually expecting etsy to be served a NSL and told to pull my facebook likes but... the government has done stranger things.)  Here's another area ripe for research, development, and thought experiments.  
+
+You can sit back and dislike what the world is developing - actively or passively - but it's not going to stop the world from innovating and building.  But you *can* dive in and work on something that provably provides privacy *and* the features of the competitor.  And that's what I think we need more of.git 
